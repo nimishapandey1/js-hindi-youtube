@@ -13,3 +13,16 @@ const BigNumber = 1234567899876543221n
 
 // Array, Objects, Function
 
+// ************************************
+// Stack(Primitive typpe memory used), Heap (Non Primitive)
+
+
+let myYoutubename = "nimishalifedotcom"
+
+let anothername = myYoutubename
+anothername = "chaiaurcode"
+
+console.log(anothername);
+console.log(myYoutubename);
+
+
